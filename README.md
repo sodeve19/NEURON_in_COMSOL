@@ -2,6 +2,12 @@
 
 This MATLAB code imports a hippocampal CA1 pyramidal glutamatergic (GLU) neuron [1,2] from the NEURON [3] framework into COMSOL Multiphysics. 
 
+## Software requirements
+
+1. MATLAB
+2. Livelink
+3. COMSOL Multiphysics
+
 ## Usage
 
 1. Run the MATLAB script.
