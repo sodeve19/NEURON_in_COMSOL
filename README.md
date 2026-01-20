@@ -10,7 +10,7 @@ This MATLAB code imports a hippocampal CA1 pyramidal glutamatergic (GLU) neuron 
 
 ## Usage
 
-1. Run the MATLAB script.
+1. Run the MATLAB script: Model_Code_SingleNeuron.m
 2. The code will generate a COMSOL model that can be further modified to:
    - Increase the number of neurons
    - Add background noise
