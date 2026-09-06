@@ -76,6 +76,7 @@ Running the workflow produces a COMSOL Multiphysics model containing the importe
 Depending on the selected model configuration, the simulation can also contain electrode geometries, additional background neural activity, and spatially distributed point probes for measuring extracellular potentials.
 
 An example of the resulting model and workflow is shown below:
+
 https://github.com/user-attachments/assets/348f6c75-e861-410f-8e3e-3a1f3d14b638
 
 ## References
